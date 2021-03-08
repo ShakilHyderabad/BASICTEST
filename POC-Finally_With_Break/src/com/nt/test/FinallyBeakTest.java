@@ -31,6 +31,7 @@ public class FinallyBeakTest {
 	  }
 	 	 System.out.println("after outer try/catch/finally");
 	 	 System.out.println("finallyBreakTest");
+	 	 System.out.println("Last Pust");
 	    return 30;
    }
 }
