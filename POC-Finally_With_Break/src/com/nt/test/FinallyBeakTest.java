@@ -30,6 +30,7 @@ public class FinallyBeakTest {
 		  
 	  }
 	 	 System.out.println("after outer try/catch/finally");
+	 	 System.out.println("finallyBreakTest");
 	    return 30;
    }
 }
