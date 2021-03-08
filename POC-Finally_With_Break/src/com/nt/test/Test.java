@@ -21,5 +21,8 @@ public class Test {
 	}
 	
 	System.out.println(a);	
+	System.out.println("updated");
+	
+	
 }
 }
