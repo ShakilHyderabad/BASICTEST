@@ -25,6 +25,8 @@ public class Test {
 
 	}
 	
+	System.out.println("last conflicats");
+	
 	System.out.println(a);	
 	System.out.println("updated");
 	
