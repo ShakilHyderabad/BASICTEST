@@ -17,6 +17,7 @@ public class Test {
  }
 	finally {
 		a=30;
+		System.out.println("Finally with updated just");
 		
 	}
 	
